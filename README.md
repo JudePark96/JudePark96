@@ -8,3 +8,5 @@
   - Natural Language Processing
 - 📫 How to reach me:
   - judepark@kookmin.ac.kr
+
+![](https://komarev.com/ghpvc/?username=JudePark96&color=green)
