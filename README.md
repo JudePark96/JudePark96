@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning
   - Deep Learning
   - Natural Language Processing
+  - Graph Representation
 - 📫 How to reach me:
   - judepark@kookmin.ac.kr
 
