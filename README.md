@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://avatars.githubusercontent.com/JudePark96" width="20%" height="20%" style="border-radius:50%"/><br/>
 Eunhwan Jude Park <br >
 Seoul, Republic of Korea. <br >
 judepark@kookmin.ac.kr
