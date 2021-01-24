@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on
-  - It will be updated in Feb, 2021.
-  - Former back-end engineer.
-- 🌱 I’m currently learning
-  - Deep Learning
-  - Natural Language Processing
-  - Graph Representation
-- 📫 How to reach me:
-  - judepark@kookmin.ac.kr
-  - https://judepark96.github.io
+<img src="https://avatars.githubusercontent.com/JudePark96" width="20%" height="20%" style="border-radius:50%"/><br/>
+Eunhwan Jude Park <br >
+Seoul, Republic of Korea. <br >
+judepark@kookmin.ac.kr
 
-![](https://komarev.com/ghpvc/?username=JudePark96&color=green)
+Hi! I obtained a B.S. Degree in Computer Science from Kookmin University in Feb 2021. Recently, I got accepted to the Division of Computer Science and Engineering at Jeonbuk National University as a graduate student! My advisor is Prof. SeungHoon Na.
+
+> I will update the email soon.
+
+[CV](https://github.com/JudePark96/judepark96.github.io/blob/master/eunhwanpark_cv.pdf)
+
+I love travel! You can see [my travel log](https://judepark96.github.io/travel_log/#1)!
