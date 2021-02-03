@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eunhwan Jude Park <br >
+Eunhwan Park <br >
 Seoul, Republic of Korea. <br >
 judepark@kookmin.ac.kr
 
