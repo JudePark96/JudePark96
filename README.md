@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 Eunhwan Park (朴殷煥) <br >
-Seoul, Republic of Korea. <br >
-jude.park.96@navercorp.com <br >
+Jeonju, Republic of Korea. <br >
 judepark@jbnu.ac.kr <br >
 judepark@kookmin.ac.kr 
 
